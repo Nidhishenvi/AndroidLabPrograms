@@ -38,10 +38,12 @@ public class MainActivity extends AppCompatActivity {
             case R.id.green:
                 cl.setBackgroundColor(Color.GREEN);
                 return true;
-            case R.id.gray:
-                cl.setBackgroundColor(Color.GRAY);
+            case R.id.yellow:
+                cl.setBackgroundColor(Color.YELLOW);
+                return true;
             case R.id.black:
                 cl.setBackgroundColor(Color.BLACK);
+                return true;
 
             default:
                     super.onOptionsItemSelected(menuItem);

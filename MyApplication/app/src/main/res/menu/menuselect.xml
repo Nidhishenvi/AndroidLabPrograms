@@ -15,8 +15,8 @@
         android:title="submenu">
         <menu>
             <item
-                android:id="@+id/gray"
-                android:title="Gray"/>
+                android:id="@+id/yellow"
+                android:title="Yellow"/>
             <item
                 android:id="@+id/black"
                 android:title="Black"/>
